@@ -15,17 +15,17 @@ class introduction
 public:
     std::string_view name() const
     {
-        return ...
+        return Denis
     }
 
     std::string_view surename() const
     {
-        return ...
+        return Grechishkin
     }
 
     std::string fullname() const
     {
-        return ...
+        return Denis_Grechishkin
     }
 
 private:
